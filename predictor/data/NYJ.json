@@ -1,0 +1,19 @@
+{
+    "name": "NYJ",
+    "fullname": "New York Jets",
+    "division": "AFC East",
+    "fixtures": {
+        "2019": {
+            "1": {
+                "opposition": "NYG",
+                "home": false
+            }
+        },
+        "2019": {
+            "2": {
+                "opposition": "JAX",
+                "home": true
+            }
+        }
+    }
+}
